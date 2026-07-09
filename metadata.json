@@ -1,0 +1,6 @@
+{
+  "name": "Customer Segmentation using K-Means Clustering",
+  "description": "An interactive, production-ready Customer Segmentation portal featuring interactive visual analytics, cluster predictions, professional slide deck presentation, 30-page internship report, Jupyter notebook viewer, and a built-in AI Data Science co-pilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
